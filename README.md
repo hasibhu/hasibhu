@@ -2,7 +2,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://www.linkedin.com/in/hasibpsy/overlay/background-image/" />
+  <img src="https://i.ibb.co/X44TwRX/react-Banner.jpg" />
 </div>
 
 ### :woman_technologist: About Me :
