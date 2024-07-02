@@ -1,6 +1,9 @@
 <h1>Hi! I am Hasibul Islam</h1> <h4>Germany based a front-end react developer.</h4>
 
-<img src="https://www.linkedin.com/in/hasibpsy/overlay/background-image/"/>
+
+<div id="header" align="center">
+  <img src="https://www.linkedin.com/in/hasibpsy/overlay/background-image/" />
+</div>
 
 ### :woman_technologist: About Me :
 I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh, living in Berlin, Germany. Additionally, a masters student studying Master Mind and Brain (Brain Track) at Berlin School of Mind and Brain at Humboldt University of Berlin.  
