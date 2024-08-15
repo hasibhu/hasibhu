@@ -10,9 +10,6 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 
 
-# fun
-https://raw.githubusercontent.com/Code-Mars/Code-Mars/output/snake.svg
-
 
 # 💻 Tech Stack:
 
