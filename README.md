@@ -1,4 +1,4 @@
-<h1>Hi! I am Hasibul Islam</h1> <h4>Germany based front-end react developer.</h4>
+<h1>Hi! I am Hasibul Islam</h1> <h4>Germany based Front-end Developer || MERN Developer </h4>
 
 
 <div id="header" align="center">
