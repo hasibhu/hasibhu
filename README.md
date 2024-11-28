@@ -6,7 +6,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh, living in Berlin, Germany. Additionally, a masters student studying Master Mind and Brain (Brain Track) at Berlin School of Mind and Brain at Humboldt University of Berlin.  
+I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh, living in Berlin, Germany and continuing my Fullstack Developer course. Additionally, a masters student studying Master Mind and Brain (Brain Track) at Berlin School of Mind and Brain at Humboldt University of Berlin.  
 
 
 
